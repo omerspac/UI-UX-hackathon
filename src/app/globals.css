@@ -256,6 +256,7 @@ body {
   line-height: 20.16px;
   width: 64px;
   height: 24px;
+  cursor: pointer;
   /* margin-left: auto; */
 }
 
