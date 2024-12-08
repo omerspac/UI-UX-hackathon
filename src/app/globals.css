@@ -415,3 +415,30 @@ body {
   white-space: nowrap;
   height: 24px;
 }
+
+.show-more-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 64px;
+}
+
+.show-more {
+  background-color: #3563E9;
+  color: white;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -2%;
+  font-weight: 600;
+  padding: 10px 20px;
+}
+
+.ot-car {
+  margin-left: 1555px;
+  color: #90A3BF;
+  line-height: 21px;
+  letter-spacing: -2%;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: -31px;
+}

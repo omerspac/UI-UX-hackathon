@@ -616,6 +616,14 @@ export default function Home() {
         </div>
         
       </div>
+
+      <div className="show-more-container">
+        <button className="show-more">
+          Show more car
+        </button>
+      </div>
+      <p className="ot-car">120 Car</p>
+
     </div>
   );
 }
