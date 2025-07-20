@@ -1,5 +1,4 @@
 # UI-UX-hackathon2
-Hackathon hosted by Sindh Governor House.
 
 My approach to solve this hackathon is as follows:
 
